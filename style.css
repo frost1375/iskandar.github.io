@@ -1,0 +1,47 @@
+
+h1 {
+    font-family: charlemagne std;
+    font-size: 22pt;
+    text-align: left;
+    color: red;
+}
+
+h2 {
+    font-family: charlemagne std;
+    font-size: 14pt;
+    text-align: left;
+    color: green;
+}
+
+b {
+    font-family: century gothic;
+    font-size: 12pt;
+    text-align: left;
+    color: grey;
+}
+
+li {
+    font-family: century gothic;
+    font-size: 12pt;
+    text-align: left;
+    color: orange;
+}
+
+a {
+    font-family: century gothic;
+    font-size: 12pt;
+    text-align: left;
+    color: blue;
+}
+
+img {
+    border-style: solid;
+    height: 25em;
+}
+
+p {
+    font-family: century gothic;
+    font-size: 12pt;
+    text-align: left;
+    color: orange;
+}

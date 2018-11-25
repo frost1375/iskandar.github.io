@@ -1,0 +1,26 @@
+
+b {
+    font-family: century gothic;
+    font-size: 11pt;
+    text-align: left;
+    color: red;
+}
+
+p {
+    font-family: century gothic;
+    font-size: 11pt;
+    text-align: left;
+    color: grey;
+}
+
+a {
+    font-family: courier;
+    color: Blue;
+}
+
+name {
+    font-family: charlemagne std;
+    font-size: 18pt;
+    text-align: center;
+    color:purple;
+}
